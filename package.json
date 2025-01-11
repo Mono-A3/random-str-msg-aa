@@ -16,5 +16,9 @@
   "bugs": {
     "url": "https://github.com/Mono-A3/random-str-msg-aa/issues"
   },
-  "homepage": "https://github.com/Mono-A3/random-str-msg-aa#readme"
+  "homepage": "https://github.com/Mono-A3/random-str-msg-aa#readme",
+  "bin": {
+    "random-str-msg-aa": "./bin/global.js"
+  },
+  "preferGlobal": true
 }
