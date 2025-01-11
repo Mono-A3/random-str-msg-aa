@@ -1,0 +1,20 @@
+{
+  "name": "random-str-msg-aa",
+  "version": "1.0.0",
+  "description": "Random String Message from Andres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mono-A3/random-str-msg-aa.git"
+  },
+  "keywords": [],
+  "author": "Andres Araque <aaraqueamaya397@gmail.com>",
+  "license": "Personalizada",
+  "bugs": {
+    "url": "https://github.com/Mono-A3/random-str-msg-aa/issues"
+  },
+  "homepage": "https://github.com/Mono-A3/random-str-msg-aa#readme"
+}
