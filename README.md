@@ -4,7 +4,7 @@
 
 ## 🌟 Descripción
 
-**random-str-msg-aa** es una herramienta ligera y práctica que genera mensajes creativos y entretenidos de manera aleatoria. Ideal para quienes buscan agregar un toque de humor y originalidad a sus proyectos.
+Utilidad desarrollada como paquete NPM para generar mensajes de commits aleatorios y creativos. Ideal para automatizar flujos de trabajo o agregar humor a proyectos personales. Construido con Node.js, sigue la estructura de un módulo exportable y se publica en el ecosistema de NPM para fácil instalación.
 
 Puedes instalarlo desde npm: [random-str-msg-aa](https://www.npmjs.com/package/random-str-msg-aa)
 
